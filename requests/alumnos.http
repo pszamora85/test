@@ -1,0 +1,8 @@
+
+GET http://localhost:3000/api/AlumnosCta
+Content-Type: application/json
+
+{
+    "Carnet":"06-2022-0445",
+    "idciclo":"2022"
+}
